@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+:root {
+    --code: 'JetBrains Mono';
+    --bold: 'Bebas Neue';
+
+    --dark: #222831;
+    --darkish: #30475e;
+    --lightish: #f05454;
+    --light: #e8e8e8;
+}
