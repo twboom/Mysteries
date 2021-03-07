@@ -1,0 +1,3 @@
+paradoxia.selector = function() {
+    
+}
